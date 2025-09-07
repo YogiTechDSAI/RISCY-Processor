@@ -1,7 +1,7 @@
-## RISC Processor
+# Clone into your system
+git clone https://github.com/YogiTechDSAI/RISCY-Processor.git
 
-- A 32-bit RISC processor to with a self designed Instruction Set Architecture.
+# Go inside folder
+cd RISCY-Processor
 
-### ISA
-
-![ISA](./resources/isa.jpg)
+# Make changes (add README, modify code etc.)
